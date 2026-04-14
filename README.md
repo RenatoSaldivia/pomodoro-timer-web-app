@@ -48,6 +48,8 @@ python pomodoro.py
 - Runs in an infinite loop
 - Stop manually with `Ctrl + C`
 
+---
+
 ## 🔁 How It Works
 - Starts a 25-minute work session
 - Plays a sound alert
