@@ -34,4 +34,7 @@ def pomodoro():
 
 
 if __name__ == "__main__":
-    pomodoro()
+    try:
+        pomodoro()
+    except KeyboardInterrupt:
+        print("\n\n👋 ¡Temporizador detenido! Hasta la próxima sesión.")
